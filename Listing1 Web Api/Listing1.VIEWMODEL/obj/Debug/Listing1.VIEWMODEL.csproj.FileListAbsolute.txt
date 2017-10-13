@@ -1,0 +1,5 @@
+C:\Users\Alpit G\Documents\Visual Studio 2015\Projects\Listing1\Listing1.VIEWMODEL\bin\Debug\Listing1.VIEWMODEL.dll
+C:\Users\Alpit G\Documents\Visual Studio 2015\Projects\Listing1\Listing1.VIEWMODEL\bin\Debug\Listing1.VIEWMODEL.pdb
+C:\Users\Alpit G\Documents\Visual Studio 2015\Projects\Listing1\Listing1.VIEWMODEL\obj\Debug\Listing1.VIEWMODEL.dll
+C:\Users\Alpit G\Documents\Visual Studio 2015\Projects\Listing1\Listing1.VIEWMODEL\obj\Debug\Listing1.VIEWMODEL.pdb
+C:\Users\Alpit G\Documents\Visual Studio 2015\Projects\Listing1\Listing1.VIEWMODEL\obj\Debug\Listing1.VIEWMODEL.csprojResolveAssemblyReference.cache
